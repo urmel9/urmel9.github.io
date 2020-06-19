@@ -5,3 +5,6 @@ Homer ist eine Figur aus den Simpsons. Seine gelbe Farbe heißt nicht, dass er G
 * Cholerisch
 * Tollpatschig
 * Herzensguter Mensch
+Oder wie Homer einmal sagte:
+> Warum passieren mir immer Sachen, 
+> die sonst nur dämlichen Menschen passieren?
